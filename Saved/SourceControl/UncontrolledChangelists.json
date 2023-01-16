@@ -12,7 +12,6 @@
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
@@ -64,7 +63,9 @@
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/_Main/Zombie/Animations/ZombieBS.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/_Main/Zombie/Animations/ZombieAnimBp.uasset",
 				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/_Main/Blueprints/BP_Zombie.uasset",
-				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/XI/Z4HMCVOPQGX7J1XAEUJ3E3.uasset"
+				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/XI/Z4HMCVOPQGX7J1XAEUJ3E3.uasset",
+				"C:/Users/steph/OneDrive/Documente/Unreal Projects/UPB_SHOOTER/Software-Engineering-Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/steph/OneDrive/Documente/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
