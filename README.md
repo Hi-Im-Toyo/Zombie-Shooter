@@ -1,4 +1,4 @@
-# Robotic-Arm-Project
+# UPB-shooter
 Our team is made out of the best engineers in the domain: Nicoara Andreea (project manager), Stefan Stanciu (backend/frontend), Lupascu Codrin (backend/frontend) and Bianca Ciobanu (designer).
 
 The project we have worked on goes by the name of "UPB Shooter", a first person shooter type of game. In this game, players will assume the role of a skilled soldier fighting against zombies in a modern-day setting. The game will feature fast-paced, tactical gameplay, with a focus on team-based play and objective-based modes. Players will be able to customize their characters and loadouts, and will have access to a wide range of weapons and equipment. The game will also feature a compelling story told through cutscenes and dialogue, as well as immersive sound effects and music.
